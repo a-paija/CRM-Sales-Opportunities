@@ -34,6 +34,6 @@ MavenTech's database structure as seen below consists of four tables: sales_pipe
 
 Prior to beginning the analysis, a series of data quality checks were conducted to ensure accuracy and build familiarity with the dataset. Key observations, data issues, and inconsistencies were documented in an issue log, while potential outliers and anomalies were identified and flagged for further review.
 
-<img src="images/Issues_log.png" alt="Issue_log" width="800" height="900"/>
+<img src="images/Issues_log.png" alt="Issue_log" width="850" height="950"/>
 
-<img src="images/Flagged_rows.png" alt="Flagged" width="400" height="500"/>
+<img src="images/Flagged_Row.png" alt="Flagged" width="550" height="450"/>
