@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Tableau Dashboard can be found here
 
-Targeted SQL Queries regarding various business questions can be found here
+Targeted SQL Queries regarding various business questions can be found [here](https://github.com/a-paija/CRM-Sales-Opportunities/blob/main/SQL_CRM_Pipeline_Analysis.sql)
 
 The SQL queries used to inspect and perform quality checks can be found here
 
