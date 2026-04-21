@@ -53,13 +53,12 @@ Excel was then used to clean and prepare the dataset for analysis in SQL. This i
 
 ## 🚫 Handling Missing & Incomplete Data
 
-During the data preparation phase, missing and incomplete values were identified in key fields such as product name, account name, and deal value. Rather than augmenting or imputing these values, a deliberate decision was made to preserve the original dataset and avoid introducing assumptions that could distort the analysis.
-
-Imputing fields like product or account names would require unsupported guesses about categorical data, which could misrepresent customer or product-level performance. Similarly, estimating missing deal values would directly impact revenue calculations and key metrics such as average deal size and win rate, reducing the reliability of insights.
-
-Given the analytical focus of this project, priority was placed on data integrity over data completeness. As a result, records with missing critical fields were either excluded from specific analyses (e.g., revenue calculations) or retained only where their inclusion would not compromise accuracy.
-
-This approach ensures that all findings and insights are grounded in verifiable data, providing a more trustworthy foundation for evaluating sales performance and pipeline efficiency.
+- Missing/incomplete values identified, flagged, and recorded using pivot tables
+- No imputation performed; original dataset preserved to avoid bias
+- Product/account fields not filled → prevents unsupported categorical assumptions
+- Missing deal values not estimated → protects revenue, AOV, and win rate integrity
+- Records with critical missing fields excluded from sensitive analyses (e.g., revenue)
+- Retained only where impact on accuracy was minimal
 
 ## Executive Summary
 
