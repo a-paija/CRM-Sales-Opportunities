@@ -13,7 +13,7 @@ This project aims to bridge that gap by transforming raw CRM data into actionabl
 
 ---
 
-An interactive Tableau Dashboard can be found here
+An interactive Tableau Dashboard can be found [here](https://public.tableau.com/app/profile/ajin.paija/viz/SalesPerformancePricingAnalytics/Story1)
 
 Targeted SQL Queries regarding various business questions can be found [here](https://github.com/a-paija/CRM-Sales-Opportunities/blob/main/SQL_CRM_Pipeline_Analysis.sql)
 
